@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .center_box {
+    width: 470px;
+    height: 310px;
+    padding-bottom:40px;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #2995E2;
+  }
+
+  .btn{
+    width: 120px;
+    height: 35px;
+    margin: 20px;
+    color: #ffffff;
+    border: none;
+    background-color: rgb(22, 139, 222);
+    }
+
+    
